@@ -1,15 +1,15 @@
-- Índice
-    1. Introducción
-    2. Reserva de turnos
-    3. Recorrido Virtual 360°
-        - Etiquetas Interactivas Avanzadas
-        - Pantallas en Movimiento y Chromas
-    4. Laboratorios
-        - Sonido
-        - Ciencias
-        - Fabricación
-    6. Testimonios
-    7. Contacto y Más Información
+Índice
+1. Introducción
+2. Reserva de turnos
+3. Recorrido Virtual 360°
+	- Etiquetas Interactivas Avanzadas
+	- Pantallas en Movimiento y Chromas
+4. Laboratorios
+	- Sonido
+	- Ciencias
+	- Fabricación
+6. Testimonios
+7. Contacto y Más Información
 
 # Introducción
 
@@ -81,7 +81,9 @@ Teléfono:+54 9 (362) 000-0000
 	- [Instagram](https://www.instagram.com/conectarlabchaco/)
 	- [LinkedIn](https://www.linkedin.com/in/anabel-nazar-1644b2129/)
 
----
+
+
+---------------------------------------------------------------------------------------------------------------
 
 Partes de una pagina web
 
